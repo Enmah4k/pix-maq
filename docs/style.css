@@ -11,3 +11,11 @@ body{
 .pixi{
     background: #1616169c;
 }
+
+.icon{
+    transition: 0.5s;
+}
+
+.icon:hover{
+    transform: rotate(5deg);
+}
