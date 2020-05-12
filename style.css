@@ -1,0 +1,13 @@
+
+body{
+    background: #1b1b1b;
+    /* background-image: url("./1x/bg.png");
+    background-repeat: no-repeat;
+    background-size: 101%;
+    background-attachment: fixed;
+    background-position: -1px 0px; */
+}
+
+.pixi{
+    background: #1616169c;
+}
